@@ -1,0 +1,5 @@
+molecular 300 10 2 0.01 3000
+cold_atomic 50 80 3 0.04 4000
+warm_atomic 0.5 8*10**3 4 0.3 4000
+warm_ionised 0.3 8*10**3 1 0.15 2400
+hot_ionised 3*10**(-3) 5*10**5 tiny 0.5 1800
